@@ -1,1 +1,1 @@
-# lab-Ecommerce-Django
+# django_ecommerce
